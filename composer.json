@@ -11,7 +11,7 @@
                 "v5.3.1": {
                     "855ab37c36aef776028b": {
                         "title": "[PATCH] [BUGFIX] Address in mailbox given [..] does not comply with RFC 2822, 3.6.2.",
-                        "url": "https://gist.githubusercontent.com/pborreli/855ab37c36aef776028b/raw/072b4a14f682636857c3066bed13a09b9a8a882e/MailboxHeader.php.diff"
+                        "url": "https://gist.githubusercontent.com/pborreli/b91963a283537c526786/raw/14713201b76a31764b5f8bf068263b2735ab1fd7/swiftmailer.patch"
                     }
                 }
             }
