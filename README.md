@@ -1,0 +1,2 @@
+# swiftmailer-patch
+Testing patches
